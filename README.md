@@ -200,7 +200,7 @@ mindmap
 </div>
 <div align="center">
 
-License © [Lohit Kolluri](LICENSE)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
